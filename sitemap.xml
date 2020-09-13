@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://github.com/NieYongchao/nieyongchao.git/2020/09/13/js%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/</loc>
+    
+    <lastmod>2020-09-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://github.com/NieYongchao/nieyongchao.git/2020/09/13/%E6%B7%B1%E6%B5%85%E6%8B%B7%E8%B4%9D/</loc>
+    
+    <lastmod>2020-09-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://github.com/NieYongchao/nieyongchao.git/2020/09/13/Promise%EF%BC%8CIterator%EF%BC%8CGenerator%EF%BC%8Casync%E7%9A%84%E7%94%A8%E6%B3%95/</loc>
+    
+    <lastmod>2020-09-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://github.com/NieYongchao/nieyongchao.git/categories/index.html</loc>
+    
+    <lastmod>2020-09-09</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://github.com/NieYongchao/nieyongchao.git/tags/index.html</loc>
+    
+    <lastmod>2020-09-09</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://github.com/NieYongchao/nieyongchao.git/link/index.html</loc>
+    
+    <lastmod>2020-09-09</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>https://github.com/NieYongchao/nieyongchao.git</loc>
+    <lastmod>2020-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://github.com/NieYongchao/nieyongchao.git/tags/ES6/</loc>
+    <lastmod>2020-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/NieYongchao/nieyongchao.git/tags/JavaScript/</loc>
+    <lastmod>2020-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/NieYongchao/nieyongchao.git/tags/js%E6%8B%B7%E8%B4%9D/</loc>
+    <lastmod>2020-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>https://github.com/NieYongchao/nieyongchao.git/categories/ES6/</loc>
+    <lastmod>2020-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/NieYongchao/nieyongchao.git/categories/JavaScript/</loc>
+    <lastmod>2020-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+</urlset>
