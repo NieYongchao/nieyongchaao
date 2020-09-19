@@ -3,11 +3,11 @@
   <title>绀香的blog</title>
   
   
-  <link href="nychao.cn/atom.xml" rel="self"/>
+  <link href="https://github.com/NieYongchao/nychao.github.io/atom.xml" rel="self"/>
   
-  <link href="nychao.cn/"/>
+  <link href="https://github.com/NieYongchao/nychao.github.io/"/>
   <updated>2020-09-13T07:53:41.931Z</updated>
-  <id>nychao.cn/</id>
+  <id>https://github.com/NieYongchao/nychao.github.io/</id>
   
   <author>
     <name>绀香</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>深浅拷贝</title>
-    <link href="nychao.cn/2020/09/13/%E6%B7%B1%E6%B5%85%E6%8B%B7%E8%B4%9D/"/>
-    <id>nychao.cn/2020/09/13/%E6%B7%B1%E6%B5%85%E6%8B%B7%E8%B4%9D/</id>
+    <link href="https://github.com/NieYongchao/nychao.github.io/2020/09/13/%E6%B7%B1%E6%B5%85%E6%8B%B7%E8%B4%9D/"/>
+    <id>https://github.com/NieYongchao/nychao.github.io/2020/09/13/%E6%B7%B1%E6%B5%85%E6%8B%B7%E8%B4%9D/</id>
     <published>2020-09-13T07:26:45.264Z</published>
     <updated>2020-09-13T07:53:41.931Z</updated>
     
@@ -35,17 +35,17 @@
     
     
     
-    <category term="JavaScript" scheme="nychao.cn/categories/JavaScript/"/>
+    <category term="JavaScript" scheme="https://github.com/NieYongchao/nychao.github.io/categories/JavaScript/"/>
     
     
-    <category term="js拷贝" scheme="nychao.cn/tags/js%E6%8B%B7%E8%B4%9D/"/>
+    <category term="js拷贝" scheme="https://github.com/NieYongchao/nychao.github.io/tags/js%E6%8B%B7%E8%B4%9D/"/>
     
   </entry>
   
   <entry>
     <title>Promise，Iterator，Generator，async的用法</title>
-    <link href="nychao.cn/2020/09/13/Promise%EF%BC%8CIterator%EF%BC%8CGenerator%EF%BC%8Casync%E7%9A%84%E7%94%A8%E6%B3%95/"/>
-    <id>nychao.cn/2020/09/13/Promise%EF%BC%8CIterator%EF%BC%8CGenerator%EF%BC%8Casync%E7%9A%84%E7%94%A8%E6%B3%95/</id>
+    <link href="https://github.com/NieYongchao/nychao.github.io/2020/09/13/Promise%EF%BC%8CIterator%EF%BC%8CGenerator%EF%BC%8Casync%E7%9A%84%E7%94%A8%E6%B3%95/"/>
+    <id>https://github.com/NieYongchao/nychao.github.io/2020/09/13/Promise%EF%BC%8CIterator%EF%BC%8CGenerator%EF%BC%8Casync%E7%9A%84%E7%94%A8%E6%B3%95/</id>
     <published>2020-09-13T07:26:45.261Z</published>
     <updated>2020-09-13T07:52:37.159Z</updated>
     
@@ -59,17 +59,17 @@
     
     
     
-    <category term="ES6" scheme="nychao.cn/categories/ES6/"/>
+    <category term="ES6" scheme="https://github.com/NieYongchao/nychao.github.io/categories/ES6/"/>
     
     
-    <category term="ES6" scheme="nychao.cn/tags/ES6/"/>
+    <category term="ES6" scheme="https://github.com/NieYongchao/nychao.github.io/tags/ES6/"/>
     
   </entry>
   
   <entry>
     <title>js数据类型</title>
-    <link href="nychao.cn/2020/09/13/js%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/"/>
-    <id>nychao.cn/2020/09/13/js%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/</id>
+    <link href="https://github.com/NieYongchao/nychao.github.io/2020/09/13/js%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/"/>
+    <id>https://github.com/NieYongchao/nychao.github.io/2020/09/13/js%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/</id>
     <published>2020-09-13T07:26:45.258Z</published>
     <updated>2020-09-13T07:53:59.346Z</updated>
     
@@ -83,10 +83,10 @@
     
     
     
-    <category term="JavaScript" scheme="nychao.cn/categories/JavaScript/"/>
+    <category term="JavaScript" scheme="https://github.com/NieYongchao/nychao.github.io/categories/JavaScript/"/>
     
     
-    <category term="JavaScript" scheme="nychao.cn/tags/JavaScript/"/>
+    <category term="JavaScript" scheme="https://github.com/NieYongchao/nychao.github.io/tags/JavaScript/"/>
     
   </entry>
   
